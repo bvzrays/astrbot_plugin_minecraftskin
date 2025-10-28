@@ -1,0 +1,11 @@
+{
+  "send_username": {"description": "是否显示玩家名标题", "type": "bool", "default": true},
+  "send_uuid": {"description": "是否显示 UUID", "type": "bool", "default": true},
+  "send_skin_url": {"description": "是否显示皮肤链接", "type": "bool", "default": true},
+  "send_cape_url": {"description": "是否显示披风链接", "type": "bool", "default": true},
+  "send_body_url": {"description": "是否显示全身渲染链接", "type": "bool", "default": true},
+  "send_head_url": {"description": "是否显示头部渲染链接", "type": "bool", "default": true},
+  "send_avatar_url": {"description": "是否显示头像链接", "type": "bool", "default": true},
+  "send_body_image": {"description": "是否发送全身像图片（非链接）", "type": "bool", "default": true},
+  "request_timeout_seconds": {"description": "请求超时秒数", "type": "int", "default": 10}
+}
