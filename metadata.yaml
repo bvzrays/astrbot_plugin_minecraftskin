@@ -3,4 +3,4 @@ display_name: Minecraft Skin 查询 # 用于展示的名字
 desc: 从 API 查询我的世界玩家皮肤信息（skin、uuid、渲染等）。 # 插件简短描述
 version: v1.0.0 # 插件版本号
 author: BvzRays # 作者
-repo: https://github.com/BvzRays/astrbot_plugin_minecraftskin # 插件的仓库地址
+repo: https://github.com/bvzrays/astrbot_plugin_minecraftskin # 插件的仓库地址
