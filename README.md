@@ -1,5 +1,7 @@
 # astrbot_plugin_minecraftskin
 
+[![views](https://visitor-badge.laobi.icu/badge?page_id=BvzRays.astrbot_plugin_minecraftskin)](https://visitor-badge.laobi.icu/)
+
 查询正版我的世界玩家皮肤，返回链接与渲染图（精炼输出）。
 
 - 作者: BvzRays
